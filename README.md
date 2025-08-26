@@ -10,7 +10,9 @@
 
 J’ai développé une plateforme permettant aux étudiants du BUT Informatique de réaliser de courtes révisions dans différentes matières.
 
-Le projet a été principalement conçu pour une utilisation mobile.J’ai développé une plateforme permettant aux étudiants du BUT Informatique de réaliser de courtes révisions dans différentes matières. Le projet a été principalement conçu pour une utilisation mobile.
+Le projet a été principalement conçu pour une utilisation mobile.
+
+J’ai développé une plateforme permettant aux étudiants du BUT Informatique de réaliser de courtes révisions dans différentes matières. Le projet a été principalement conçu pour une utilisation mobile.
 
 ## Où ? 
 
